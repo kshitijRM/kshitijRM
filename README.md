@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kshitijRM
-- 👀 I’m interested in React JS
-- 🌱 I’m currently learning JavaScript 
-- 📫 How to reach me kshitijdinni6605@gmail.com
-- ⚡ Fun fact: I Am Diploma Student. 
+- 👀 I’m interested in 
+- 🌱 I’m currently learning AWS
+- 📫 How to reach me eng.ufoo@gmail.com
+- ⚡ Fun fact: I Am Engineering Student. 
